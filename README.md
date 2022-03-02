@@ -3,7 +3,7 @@ Un framework simple en python pour créer une application web multi-pages en uti
 Etape 1 :
 POUR INSTALLER STREAMLIT :
 Ouvrir l'invite de commande et inserer la ligne de code : pip install --upgrade streamlit.
-Une fois installer garder l'invite de commande ouverte et y inserer 2 commandes:
+Une fois installé garder l'invite de commande ouverte et y inserer 2 commandes:
 -streamlit version.
 -streamlit hello.
 
